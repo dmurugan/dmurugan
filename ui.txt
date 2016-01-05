@@ -1,0 +1,1 @@
+:after & :before does not work on input elements
