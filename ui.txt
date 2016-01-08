@@ -1,1 +1,7 @@
 :after & :before does not work on input elements
+
+Textarea no resize :
+
+textarea{
+resize:none;
+}
